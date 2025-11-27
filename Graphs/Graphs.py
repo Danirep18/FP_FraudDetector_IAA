@@ -6,7 +6,7 @@ from sklearn.preprocessing import StandardScaler
 from matplotlib.patches import Patch
 
 
-file_path = r'E:\Documents\9no Semestre\Algoritmos de Inteligencia Artificial\FinalProject\Grpahs\creditcard.csv'
+file_path = r'$path2creditcard.csv'
 
 try:
     df = pd.read_csv(file_path)
