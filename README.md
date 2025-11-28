@@ -2,7 +2,7 @@
 
 ## Credit Card Fraud Detection using Machine Learning
 
-This project implements a **Deep Learning** model (Neural Network) to classify financial transactions as either fraudulent or legitimate. It specifically addresses the crucial challenge of **severe class imbalance** inherent in real-world fraud detection datasets.
+This project implements a **Machine Learning** model (Neural Network) to classify financial transactions as either fraudulent or legitimate. It specifically addresses the crucial challenge of **severe class imbalance** inherent in real-world fraud detection datasets.
 
 The analysis is based on a credit card transaction dataset sourced from **Kaggle**, where sensitive features were transformed using **Principal Component Analysis (PCA)** to ensure user privacy.
 
