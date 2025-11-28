@@ -37,7 +37,17 @@ python -m venv venv
 
 # Activate the environment (Linux/macOS)
 source venv/bin/activate
+```
 
+Recommended versions of packages used: 
 
+| Package | Version |
+|---|---|
+| numpy | 2.3.2 |
+| pandas | 2.3.1 |
+| seaborn | 0.13.2 |
+| matplotlib | 3.10.5 |
+| scikit-learn | 1.7.1 |
+| tensorflow | 2.20.0 |
 
 
