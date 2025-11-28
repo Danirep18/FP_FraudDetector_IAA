@@ -38,7 +38,6 @@ python -m venv venv
 # Activate the environment (Linux/macOS)
 source venv/bin/activate
 
-# Install dependencies (assuming a requirements.txt file exists)
-pip install -r requirements.txt
+
 
 
